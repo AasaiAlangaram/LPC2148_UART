@@ -1,0 +1,4 @@
+Dependencies for Project 'UART0_Str Disp', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F586700)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\UART0_Str Disp.c)(0x5D9549BC)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "uart0_str disp.o" --omf_browse "uart0_str disp.crf" --depend "uart0_str disp.d")
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x4F585AA4)

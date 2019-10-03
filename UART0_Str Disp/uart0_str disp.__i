@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "uart0_str disp.o" --omf_browse "uart0_str disp.crf" --depend "uart0_str disp.d" "UART0_Str Disp.c"
